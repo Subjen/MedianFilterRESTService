@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MedianFilterRESTService.MedianFilterService" CodeBehind="MedianFilterService.svc.cs" %>

@@ -1,0 +1,7 @@
+c:\users\subbo\source\repos\MedianFilterRESTService\MedianFilterRESTService\bin\MedianFilterRESTService.dll.config
+c:\users\subbo\source\repos\MedianFilterRESTService\MedianFilterRESTService\bin\MedianFilterRESTService.dll
+c:\users\subbo\source\repos\MedianFilterRESTService\MedianFilterRESTService\bin\MedianFilterRESTService.pdb
+c:\users\subbo\source\repos\MedianFilterRESTService\MedianFilterRESTService\obj\Debug\MedianFilterRESTService.csprojAssemblyReference.cache
+c:\users\subbo\source\repos\MedianFilterRESTService\MedianFilterRESTService\obj\Debug\MedianFilterRESTService.csproj.CoreCompileInputs.cache
+c:\users\subbo\source\repos\MedianFilterRESTService\MedianFilterRESTService\obj\Debug\MedianFilterRESTService.dll
+c:\users\subbo\source\repos\MedianFilterRESTService\MedianFilterRESTService\obj\Debug\MedianFilterRESTService.pdb
